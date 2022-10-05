@@ -1,1 +1,1 @@
-print("Coming soon!")
+game.Players.LocalPlayer:kick("Script Coming Soon!")
